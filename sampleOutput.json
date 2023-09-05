@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+   {
+   "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Natasha Turak",
+            "title": "Russia's 36-hour cease-fire begins; Zelenskyy rejects pause as a 'cover' to advantage Russian troops - CNBC",
+            "description": "The move by Putin may have been designed to cast Ukraine in a negative light, analysts say.",
+            "url": "https://www.cnbc.com/2023/01/06/russia-ukraine-live-updates.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107169432-1671613398494-gettyimages-1245746532-l1015911.jpeg?v=1673001502&w=1920&h=1080",
+            "publishedAt": "2023-01-06T16:21:00Z",
+            "content": "Russian President Vladimir Putin's demand for a ceasefire for Orthodox Christmas which Ukraine has rejected is likely a ploy designed to make Ukraine look aggressive and intransigent, according to an… [+1365 chars]"
+        },
+   {
+   "source": {
+                "id": null,
+                "name": "ESPN"
+            },
+            "author": "Alaina Getzenberg",
+            "title": "Damar Hamlin has breathing tube removed, FaceTimes with Bills - ESPN",
+            "description": "Bills safety Damar Hamlin had his breathing tube removed and has begun talking with his care team, family and his teammates.",
+            "url": "https://www.espn.com/nfl/story/_/id/35391812/bills-damar-hamlin-breathing-own-tube-removed",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2023%2F0103%2Fr1113089_1296x1296_1%2D1.jpg",
+            "publishedAt": "2023-01-06T16:11:49Z",
+            "content": "ORCHARD PARK, N.Y. -- Buffalo Bills safety Damar Hamlin had his breathing tube removed and has begun talking with his care team, family and his teammates.\r\nHamlin's breathing tube was removed overnig… [+1640 chars]"
+        },
+   {
+   "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": null,
+            "title": "Fourth day of speaker crisis collides with Jan. 6 anniversary - POLITICO",
+            "description": "The House is submerged in a different breed of gridlock two years to the day after a violent riot shook the Capitol.",
+            "url": "https://www.politico.com/news/2023/01/06/house-speaker-vote-day-4-00076738",
+            "urlToImage": "https://static.politico.com/dc/64/bd36746c45c98a694d66064dbaeb/20230105-mccarthy-francis-8.jpg",
+            "publishedAt": "2023-01-06T15:20:02Z",
+            "content": "Look, January 6 is going to roll around every year, just like Pearl Harbor Day rolls around every year, treated like just another day in the calendar, Rep. Susan Wild (D-Pa.) said. I want us to keep … [+3622 chars]"
+        },
+   {
+   "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Al Roker returns to 'Today,' credits doctors for saving his life: 'I lost half my blood' - Yahoo Entertainment",
+            "description": null,
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiaGh0dHBzOi8vd3d3LnlhaG9vLmNvbS9lbnRlcnRhaW5tZW50L2FsLXJva2VyLXJldHVybnMtdG8tdG9kYXktY3JlZGl0cy1kb2N0b3JzLXNhdmluZy1saWZlLTE0NDY0ODAwOC5odG1s0gFwaHR0cHM6Ly93d3cueWFob28uY29tL2FtcGh0bWwvZW50ZXJ0YWlubWVudC9hbC1yb2tlci1yZXR1cm5zLXRvLXRvZGF5LWNyZWRpdHMtZG9jdG9ycy1zYXZpbmctbGlmZS0xNDQ2NDgwMDguaHRtbA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2023-01-06T14:46:48Z",
+            "content": null
+        }
+    ]
+}

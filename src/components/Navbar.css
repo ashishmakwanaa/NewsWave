@@ -1,0 +1,31 @@
+.navbar-brand{
+    color: white;
+    background-color: rgb(41, 6, 101);
+    padding: .3rem;   
+    border-radius: 5px;
+}
+.navbar-brand:hover{
+    color: white;
+}
+.nav-item .active {
+    text-decoration: none; 
+    position: relative; 
+}
+
+.nav-item .active::after {
+    content: ''; 
+    position: absolute;
+    left: 0;
+    bottom: -2px;
+    width: 100%;
+    height: 2px;
+    background-color: #040b8e; 
+    transform: scaleX(0); 
+    transform-origin: right; 
+    transition: transform 0.5s ease; 
+}
+
+.nav-item .active:hover::after {
+    transform: scaleX(1); 
+    transform-origin: left;
+}
